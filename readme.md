@@ -1,5 +1,4 @@
 # Mehul Patel
--------------------------------------
 
 [![](https://img.shields.io/badge/Mehul-Patel-brightgreen.svg?colorB=00ff00)](https://www.rowdymehul.com)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
