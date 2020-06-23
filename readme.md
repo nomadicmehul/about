@@ -59,6 +59,7 @@ Upcoming and past events / workshops / podcasts / speaking engagements:
 
 
 * [Mozilla Whistler All Hands 2019](https://wiki.mozilla.org/All_Hands/Whistler2019) (June 17 - June 21, 2019) : WorkWeek Attendee 
+* [TRU OPENSOURCE CLUB - Weekly TechMeetup, Canada](https://trusu.ca/club/open-source-club/git) : Speaker 
 * [Serverless Auckland](https://www.meetup.com/Serverless-Auckland/events/258553321/) (February 19, 2019) : Speaker
 
 ### 2018
