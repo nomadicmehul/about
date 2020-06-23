@@ -42,7 +42,7 @@
 * Red Hat Certified Engineer
 * Red Hat Certified System Administrator
 
-_If you'd like me to emcee, keynote, present a session, or run a workshop at an event you organize, please contact me on Twitter._
+_If you'd like me to keynote, present a session, or run a workshop at an event you organize, please contact me on Twitter._
 
 
 ## Events
