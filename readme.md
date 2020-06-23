@@ -35,8 +35,8 @@
 
 ##  Certifications 
 
-* AWS Certified Solutions Architect – Associate by **AWS**
-* Cloud Engineering with Google Cloud by **Coursera**
+* AWS Certified Solutions Architect – Associate by [**AWS**](https://www.youracclaim.com/badges/4a4407fe-af92-4c80-8f9f-4d7651cab08f)
+* Cloud Engineering with Google Cloud by [**Coursera**](https://www.coursera.org/account/accomplishments/specialization/certificate/59PG6RVRYURV)
 * Red Hat Certified System Administrator in Red Hat OpenStack
 * Red Hat Certified Virtualization Administrator
 * Red Hat Certified Engineer
