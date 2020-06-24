@@ -26,6 +26,7 @@
 * [ServerlessDays Auckland](https://medium.com/@rowdymehul/serverlessdays-auckland-2018-8e3a78e8793e)
 * [DevHost’18](https://github.com/rowdymehul/DevHost18)
 * [The Hacker's Meet-Up Application-Security-edition](https://github.com/rowdymehul/The-Hackers-Meetup-Application-Security-edition) 
+* [Rust Hacks at Cummins](https://github.com/rowdymehul/Rust-Hacks-at-Cummins)
 * [GNUnify’18](https://github.com/rowdymehul/GNUnify-2018) 
 * [Maker Fest 2018](http://www.rowdymehul.com/mozilla/maker-fest-2018/)
 

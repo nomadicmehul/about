@@ -75,6 +75,7 @@ Upcoming and past events / workshops / podcasts / speaking engagements:
 * [ServerlessDays Auckland](https://serverless.org.nz) (05 June, 2018) : Speaker
 * [DevHost’18](https://github.com/rowdymehul/DevHost18)
 * [The Hacker's Meet-Up Application-Security-edition](https://github.com/rowdymehul/The-Hackers-Meetup-Application-Security-edition) (6th May 2018) : Speaker
+* [Rust Hacks at Cummins](https://github.com/rowdymehul/Rust-Hacks-at-Cummins) (17 MARCH, 2018) : Speaker
 * [GNUnify’18](https://github.com/rowdymehul/GNUnify-2018) (16-17 Feb, 2018) : Speaker
 * [Maker Fest 2018](http://www.rowdymehul.com/mozilla/maker-fest-2018/) (Jan, 2018) : Organizer
 
