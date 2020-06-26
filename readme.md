@@ -25,13 +25,15 @@
 * Mentorship & coaching
 * Evangelism
 * Privacy Agent
-* Advocate for Internet 
+* Advocate to building a better Internet.
 
 ## Contact
 
 * [GitHub](github.com/rowdymehul)
 * [LinkedIn](https://www.linkedin.com/in/rowdymehul)
 * [Twitter](twitter.com/rowdymehul)
+* [Website](rowdymehul.com/)
+* [Blog](medium.com/@rowdymehul)
 
 ##  Certifications 
 
@@ -53,17 +55,20 @@ Upcoming and past events / workshops / podcasts / speaking engagements:
 
 * [The Hackers Meetup India Webinar](https://github.com/rowdymehul/The-Hackers-Meetup-India-Webinar) (21st June 2020) : Speaker
 * [HackerU India Webinar](https://github.com/rowdymehul/HackerU-India-Webinar) (19th June 2020) : Speaker
+* [Git + Github = Easy (SCM + Collaboration)](https://www.meetup.com/GDG-Nashik/events/270224329/)(April 26, 2020) : Organizer & Speaker
+* [Hello Rust](https://github.com/rowdymehul/Hello-Rust) (17 APRIL, 2020) : Speaker
 
 ### 2019
 
 
 * [Mozilla Whistler All Hands 2019](https://wiki.mozilla.org/All_Hands/Whistler2019) (June 17 - June 21, 2019) : WorkWeek Attendee 
 * [TRU OPENSOURCE CLUB - Weekly TechMeetup, Canada](https://trusu.ca/club/open-source-club/git) : Speaker 
+* [Cloud Study Jams [Beginners]: GDG Nashik](https://www.meetup.com/GDG-Nashik/events/260845707/) (May 26, 2019): Organizer & Speaker
 * [Serverless Auckland](https://www.meetup.com/Serverless-Auckland/events/258553321/) (February 19, 2019) : Speaker
+* [OWASP New Zealand Day 2019](https://github.com/rowdymehul/OWASP-New-Zealand-Day-2019) : Speaker
 
 ### 2018
 
-* [OWASP New Zealand Day 2019](https://github.com/rowdymehul/OWASP-New-Zealand-Day-2019) : Speaker
 * [Hackference India 2018](https://hackference.in/) (15-16 December 2018) : Speaker
 * [Mozilla l10n Gujarati Training Meetup 2018](https://reps.mozilla.org/e/mozilla-l10n-gujarati-training-meetup-2018/) (01-02 December 2018) : Organizer
 * [OpenAlt 2018, Brno](https://www.openalt.cz/2018/) (03-04 Nov. 2018) : Speaker 

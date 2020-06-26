@@ -4,12 +4,15 @@
 
 * [The Hackers Meetup India Webinar](https://github.com/rowdymehul/The-Hackers-Meetup-India-Webinar) 
 * [HackerU India Webinar](https://github.com/rowdymehul/HackerU-India-Webinar) 
+* [Git + Github = Easy (SCM + Collaboration)](https://www.meetup.com/GDG-Nashik/events/270224329/)
+* [Hello Rust](https://github.com/rowdymehul/Hello-Rust)
 
 ### 2019
 
 
 * [Mozilla Whistler All Hands 2019](https://wiki.mozilla.org/All_Hands/Whistler2019) 
 * [TRU OPENSOURCE CLUB - Weekly TechMeetup, Canada](https://github.com/rowdymehul/TRU-OPEN-SOURCE-CLUB)
+* [Cloud Study Jams [Beginners]: GDG Nashik](https://www.meetup.com/GDG-Nashik/events/260845707/)
 * [Serverless Auckland](https://github.com/rowdymehul/Serverless-Auckland-Meetup) 
 * [OWASP New Zealand Day 2019](https://github.com/rowdymehul/OWASP-New-Zealand-Day-2019) 
 
