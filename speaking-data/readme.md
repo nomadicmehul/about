@@ -27,6 +27,7 @@
 * [OWASP AppSec Israel 2018](https://github.com/rowdymehul/OWASP-s-AppSec-Israel-2018)
 * [DevConfIN 2018](https://github.com/rowdymehul/devconfIN)
 * [ServerlessDays Auckland](https://medium.com/@rowdymehul/serverlessdays-auckland-2018-8e3a78e8793e)
+* [RustFest Paris 2018](https://paris.rustfest.eu/) 
 * [DevHost’18](https://github.com/rowdymehul/DevHost18)
 * [The Hacker's Meet-Up Application-Security-edition](https://github.com/rowdymehul/The-Hackers-Meetup-Application-Security-edition) 
 * [Rust Hacks at Cummins](https://github.com/rowdymehul/Rust-Hacks-at-Cummins)

@@ -78,6 +78,7 @@ Upcoming and past events / workshops / podcasts / speaking engagements:
 * [OWASP AppSec Israel 2018](https://2018.appsecil.org/) (5-6 September, 2018) : Speaker
 * [DevConfIN 2018](https://devconf.info/in) (4th & 5th May 2018) : Speaker
 * [ServerlessDays Auckland](https://serverless.org.nz) (05 June, 2018) : Speaker
+* [RustFest Paris 2018](https://paris.rustfest.eu/) (May 26th - 28th, 2018) : Contributor Invitation
 * [DevHost’18](https://github.com/rowdymehul/DevHost18)
 * [The Hacker's Meet-Up Application-Security-edition](https://github.com/rowdymehul/The-Hackers-Meetup-Application-Security-edition) (6th May 2018) : Speaker
 * [Rust Hacks at Cummins](https://github.com/rowdymehul/Rust-Hacks-at-Cummins) (17 MARCH, 2018) : Speaker
