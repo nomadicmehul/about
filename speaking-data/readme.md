@@ -2,6 +2,7 @@
 
 ### 2020
 
+* [SecurityVue India Webinar](https://github.com/rowdymehul/SecurityVue-India-Webinar)
 * [The Hackers Meetup India Webinar](https://github.com/rowdymehul/The-Hackers-Meetup-India-Webinar) 
 * [HackerU India Webinar](https://github.com/rowdymehul/HackerU-India-Webinar) 
 * [Git + Github = Easy (SCM + Collaboration)](https://www.meetup.com/GDG-Nashik/events/270224329/)
