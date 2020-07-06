@@ -93,7 +93,7 @@ Upcoming and past events / workshops / podcasts / speaking engagements:
 * [GDG DevFest Ahmedabad 2017](http://www.rowdymehul.com/rust/google-devfest-ahmedabad-2017/) (05 Nov, 2017): Speaker 
 * [Mozilla Festival London 2017](https://mozillafestival.org) : Speaker 
 * [IEEE R10 Sectional Leadership Summit](http://www.rowdymehul.com/mozilla/mozconnect-with-ieee-r10-sectional-leadership-summit/) (03-04 August, 2017) : Speaker 
-* [**Rain Of Rust** Global campaign](http://www.rowdymehul.com/mozilla/rain-of-rust-how-we-did-it/) (All weeks of June, 2017) : Organizer
+* [**Rain Of Rust** Global campaign](http://www.rowdymehul.com/mozilla/rain-of-rust-how-we-did-it/) (All weeks of June, 2017) : Organizer & Speaker
 * [Maker Fest 2017](https://blog.mozillaindia.org/1761) (Jan 2017) : Organizer
 * [Open Source Talk](http://www.rowdymehul.com/mozilla/why-open-source/) : Speaker 
 
