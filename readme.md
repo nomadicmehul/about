@@ -29,7 +29,7 @@
 
 ## Contact
 
-* [GitHub](github.com/rowdymehul)
+* [GitHub](https://github.com/rowdymehul/)
 * [LinkedIn](https://www.linkedin.com/in/rowdymehul)
 * [Twitter](twitter.com/rowdymehul)
 * [Website](rowdymehul.com/)
