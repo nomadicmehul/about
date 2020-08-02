@@ -40,6 +40,7 @@
 * AWS Certified Solutions Architect – Associate by [**AWS**](https://www.youracclaim.com/badges/4a4407fe-af92-4c80-8f9f-4d7651cab08f)
 * Associate Cloud Engineer - [Google Cloud](https://www.credential.net/70b9d3cd-e34d-4c7a-b300-c5aaa8f9e4fd)
 * AWS Certified DevOps Engineer – Professional by [AWS](https://www.youracclaim.com/badges/357c9da9-bbab-4c42-b04d-bb37cd2bf0ca)
+* Professional Cloud Architect - [Google Cloud](https://www.credential.net/8e95aac7-5990-47d6-a784-fa189dbe7647#gs.br7tu1)
 * Cloud Engineering with Google Cloud by [**Coursera**](https://www.coursera.org/account/accomplishments/specialization/certificate/59PG6RVRYURV)
 * Red Hat Certified System Administrator in Red Hat OpenStack
 * Red Hat Certified Virtualization Administrator
