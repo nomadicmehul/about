@@ -22,6 +22,7 @@
 > I do:
 
 * Tech community organizing
+* OpenSource Advocate
 * Mentorship & coaching
 * Evangelism
 * Privacy Agent
