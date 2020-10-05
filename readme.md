@@ -57,7 +57,6 @@ Upcoming and past events / workshops / podcasts / speaking engagements:
 
 ### 2020
 
-<<<<<<< HEAD
 =======
 * [Merge Intern Webinar](https://github.com/rowdymehul/Merge-Intern-Webinar) (26th September, 2020) : Speaker
 * [AppSec Days - Summer of Security](https://github.com/rowdymehul/AppSec-Days-Summer-of-Security) (August 25-26 2020) : Speaker
