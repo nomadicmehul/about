@@ -58,6 +58,7 @@ Upcoming and past events / workshops / podcasts / speaking engagements:
 ### 2020
 
 =======
+* [Hacktoberfest 2020](https://github.com/rowdymehul/Hacktoberfest-2020) (09th October, 2020) : Speaker
 * [Merge Intern Webinar](https://github.com/rowdymehul/Merge-Intern-Webinar) (26th September, 2020) : Speaker
 * [AppSec Days - Summer of Security](https://github.com/rowdymehul/AppSec-Days-Summer-of-Security) (August 25-26 2020) : Speaker
 * [SecurityVue India Webinar](https://github.com/rowdymehul/SecurityVue-India-Webinar) (4th July, 2020) : Speaker
