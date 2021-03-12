@@ -58,6 +58,8 @@ Upcoming and past events / workshops / podcasts / speaking engagements:
 ### 2020
 
 =======
+* [HackBMU 4.0](https://github.com/rowdymehul/HackBMU-4.0) (11th March, 2021) : Speaker
+* [Software Freedom Day 2021](https://github.com/rowdymehul/software-freedom-day-2021) (07th March, 2021) : Speaker
 * [Hacktoberfest 2020](https://github.com/rowdymehul/Hacktoberfest-2020) (09th October, 2020) : Speaker
 * [Merge Intern Webinar](https://github.com/rowdymehul/Merge-Intern-Webinar) (26th September, 2020) : Speaker
 * [AppSec Days - Summer of Security](https://github.com/rowdymehul/AppSec-Days-Summer-of-Security) (August 25-26 2020) : Speaker
