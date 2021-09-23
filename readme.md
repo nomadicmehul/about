@@ -30,11 +30,11 @@
 
 ## Contact
 
-* [GitHub](https://github.com/rowdymehul/)
-* [LinkedIn](https://www.linkedin.com/in/rowdymehul)
-* [Twitter](https://twitter.com/rowdymehul)
-* [Website](http://www.rowdymehul.com/)
-* [Blog](https://medium.com/@rowdymehul)
+* [GitHub](https://github.com/nomadicmehul/)
+* [LinkedIn](https://www.linkedin.com/in/nomadicmehul)
+* [Twitter](https://twitter.com/nomadicmehul)
+* [Website](http://www.nomadicmehul.com/)
+* [Blog](https://medium.com/@nomadicmehul)
 
 ##  Certifications 
 
