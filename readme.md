@@ -8,7 +8,7 @@
 > I am:
 
 * Community Builder | Open-source Advocate 
-* [Mozilla Reps Mentor](https://reps.mozilla.org/u/rowdymehul/ ) 
+* [Mozilla Reps Mentor](https://community.mozilla.org/en/people/nomadicmehul/ ) 
 * [Mozilla Reps Resource](https://wiki.mozilla.org/Reps/Resources)
 * [Auth0 Ambassador](https://auth0.com/ambassador-program)
 * [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/)
