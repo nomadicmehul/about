@@ -7,7 +7,7 @@
 
 > I am:
 
-* Product Evangelist / Manager at [Softpixel Co. Ltd.](https://www.linkedin.com/company/softpixel-co)
+* Community Builder | Open-source Advocate 
 * [Mozilla Reps Mentor](https://reps.mozilla.org/u/rowdymehul/ ) 
 * [Mozilla Reps Resource](https://wiki.mozilla.org/Reps/Resources)
 * [Auth0 Ambassador](https://auth0.com/ambassador-program)
