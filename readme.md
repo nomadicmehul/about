@@ -11,6 +11,7 @@
 * [Mozilla Reps Mentor](https://reps.mozilla.org/u/rowdymehul/ ) 
 * [Mozilla Reps Resource](https://wiki.mozilla.org/Reps/Resources)
 * [Auth0 Ambassador](https://auth0.com/ambassador-program)
+* [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/)
 * Manager at [Mozilla Pontoon](https://pontoon.mozilla.org/gu-IN/)
 * Campus Advisory Committee at [Mozilla Campus](https://campus.mozilla.community/)
 * Founder/Organizer at [Google Developers Group (GDG) - Nashik](https://www.meetup.com/GDG-Nashik/)
