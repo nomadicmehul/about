@@ -56,6 +56,8 @@ _If you'd like me to keynote, present a session, or run a workshop at an event y
 
 Upcoming and past events / workshops / podcasts / speaking engagements:
 
+* [Developer Day Seattle 2022](https://regionalevents.okta.com/DeveloperDaySeattle2022) (August 24, 2022)
+
 ### 2020
 
 =======
