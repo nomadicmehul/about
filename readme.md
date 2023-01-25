@@ -1,24 +1,24 @@
 # Mehul Patel
 
-[![](https://img.shields.io/badge/Mehul-Patel-brightgreen.svg?colorB=00ff00)](https://www.rowdymehul.com)
+[![](https://img.shields.io/badge/Mehul-Patel-brightgreen.svg?colorB=00ff00)](https://www.nomadicmehul.com)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![GitHub followers](https://img.shields.io/github/followers/rowdymehul?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/rowdymehul?style=social)
 
 > I am:
 
-* Community Builder | Open-source Advocate 
-* [Mozilla Reps Mentor](https://community.mozilla.org/en/people/nomadicmehul/ ) 
-* [Mozilla Reps Resource](https://wiki.mozilla.org/Reps/Resources)
-* [Auth0 Ambassador](https://auth0.com/ambassador-program)
-* [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/)
-* Manager at [Mozilla Pontoon](https://pontoon.mozilla.org/gu-IN/)
-* Campus Advisory Committee at [Mozilla Campus](https://campus.mozilla.community/)
-* Founder/Organizer at [Google Developers Group (GDG) - Nashik](https://www.meetup.com/GDG-Nashik/)
-* Founder/Organizer at [Mozilla Gujarat](https://twitter.com/mozguj)
-* Founder/Organizer at [Rust Hacks](https://twitter.com/rusthack)
-* Founder at [Internauts Foundation](https://twitter.com/Internautsorg)
-* Founder & Writer at [TechnoPanti](medium.com/technopanti)
+- Community Builder | Open-source Advocate 🥑
+- [Mozilla Reps Council](https://www.mozilla.org/en-US/about/leadership/reps-council/) 
+- [AWS Community Builder ](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=mehul&cb-cards.q_operator=AND)
+- [Auth0 Ambassador](https://auth0.com/ambassador-program/ambassadors#Mehul%20Patel)
+- [Mozilla Reps Mentor](https://community.mozilla.org/de/groups/mozilla-reps-mentors/)
+- [Mozilla Reps Resource](https://community.mozilla.org/de/groups/mozilla-reps-resources/)
+- Manager at [Mozilla Pontoon](https://pontoon.mozilla.org/gu-IN/)
+- Founder at [Open Source Weekend](https://twitter.com/OSWeekend)
+- Founder at [Internauts Foundation](https://twitter.com/Internautsorg)
+- Organizer at [Gujarat Identity and Security Meetup](https://www.meetup.com/gujarat-identity-and-security-meetup/)
+- Tech Writer at [TechnoPanti](medium.com/technopanti)
+- Founder/Organizer at [Rust Hacks](https://twitter.com/rusthack)
 
 > I do:
 
@@ -53,6 +53,9 @@ _If you'd like me to keynote, present a session, or run a workshop at an event y
 
 
 ## Events
+
+
+### 2023
 
 Upcoming and past events / workshops / podcasts / speaking engagements:
 
