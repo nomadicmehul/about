@@ -60,13 +60,22 @@ _If you'd like me to keynote, present a session, or run a workshop at an event y
 
 Upcoming and past events / workshops / podcasts / speaking engagements:
 
-* [Developer Day Seattle 2022](https://regionalevents.okta.com/DeveloperDaySeattle2022) (August 24, 2022)
+* [Mozilla Gujarat Meetup](https://community.mozilla.org/en/events/mozilla-gujarat-reborn/) (22nd Jan, 2023) : Organizer & Speaker 
 
-### 2020
+### 2022
+
+* [Developer Day Seattle 2022](https://regionalevents.okta.com/DeveloperDaySeattle2022) (August 24, 2022)
+* [#1 Launch event - Identity and Security Meetup Gujarat](https://www.meetup.com/gujarat-identity-and-security-meetup/events/286053128/) ( 28th May, 2022) : Organizer & Speaker 
+
+### 2021
 
 =======
 * [HackBMU 4.0](https://github.com/rowdymehul/HackBMU-4.0) (11th March, 2021) : Speaker
 * [Software Freedom Day 2021](https://github.com/rowdymehul/software-freedom-day-2021) (07th March, 2021) : Speaker
+
+
+### 2020
+
 * [Hacktoberfest 2020](https://github.com/rowdymehul/Hacktoberfest-2020) (09th October, 2020) : Speaker
 * [Merge Intern Webinar](https://github.com/rowdymehul/Merge-Intern-Webinar) (26th September, 2020) : Speaker
 * [AppSec Days - Summer of Security](https://github.com/rowdymehul/AppSec-Days-Summer-of-Security) (August 25-26 2020) : Speaker
