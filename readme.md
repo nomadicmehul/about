@@ -115,17 +115,17 @@ Upcoming and past events / workshops / podcasts / speaking engagements:
 * [The Hacker's Meet-Up Application-Security-edition](https://github.com/nomadicmehul/The-Hackers-Meetup-Application-Security-edition) (6th May 2018) : Speaker
 * [Rust Hacks at Cummins](https://github.com/nomadicmehul/Rust-Hacks-at-Cummins) (17 MARCH, 2018) : Speaker
 * [GNUnify’18](https://github.com/nomadicmehul/GNUnify-2018) (16-17 Feb, 2018) : Speaker
-* [Maker Fest 2018](http://www.rowdymehul.com/mozilla/maker-fest-2018/) (Jan, 2018) : Organizer
+* [Maker Fest 2018](https://medium.com/@nomadicmehul/maker-fest-2018-757736de866b) (Jan, 2018) : Organizer
 
 ### 2017
 
-* [GSIndia Summit 2017](http://www.rowdymehul.com/mozilla/gsindia-summit-2017/) (16-17 December, 2017) : Speaker)
-* [GDG DevFest Ahmedabad 2017](http://www.rowdymehul.com/rust/google-devfest-ahmedabad-2017/) (05 Nov, 2017): Speaker 
+* [GSIndia Summit 2017](https://medium.com/@nomadicmehul/gsindia-summit-2017-b82c1c1dc128) (16-17 December, 2017) : Speaker)
+* [GDG DevFest Ahmedabad 2017](https://medium.com/@nomadicmehul/google-devfest-ahmedabad-2017-d3a4d0c63cfc) (05 Nov, 2017): Speaker 
 * [Mozilla Festival London 2017](https://mozillafestival.org) : Speaker 
-* [IEEE R10 Sectional Leadership Summit](http://www.rowdymehul.com/mozilla/mozconnect-with-ieee-r10-sectional-leadership-summit/) (03-04 August, 2017) : Speaker 
-* [**Rain Of Rust** Global campaign](http://www.rowdymehul.com/mozilla/rain-of-rust-how-we-did-it/) (All weeks of June, 2017) : Organizer & Speaker
+* [IEEE R10 Sectional Leadership Summit](https://medium.com/@nomadicmehul/mozconnect-with-ieee-r10-sectional-leadership-summit-8f91e72f2824) (03-04 August, 2017) : Speaker 
+* [**Rain Of Rust** Global campaign](https://medium.com/@nomadicmehul/rain-of-rust-how-we-did-it-53a571ce2c35) (All weeks of June, 2017) : Organizer & Speaker
 * [Maker Fest 2017](https://blog.mozillaindia.org/1761) (Jan 2017) : Organizer
-* [Open Source Talk](http://www.rowdymehul.com/mozilla/why-open-source/) : Speaker 
+* [Open Source Talk](https://medium.com/@nomadicmehul/why-open-source-8791673cb5d7) : Speaker 
 
 ### 2016
 
