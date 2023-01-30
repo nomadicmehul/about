@@ -75,20 +75,20 @@ Upcoming and past events / workshops / podcasts / speaking engagements:
 ### 2021
 
 =======
-* [HackBMU 4.0](https://github.com/rowdymehul/HackBMU-4.0) (11th March, 2021) : Speaker
-* [Software Freedom Day 2021](https://github.com/rowdymehul/software-freedom-day-2021) (07th March, 2021) : Speaker
+* [HackBMU 4.0](https://github.com/nomadicmehul/HackBMU-4.0) (11th March, 2021) : Speaker
+* [Software Freedom Day 2021](https://github.com/nomadicmehul/software-freedom-day-2021) (07th March, 2021) : Speaker
 
 
 ### 2020
 
-* [Hacktoberfest 2020](https://github.com/rowdymehul/Hacktoberfest-2020) (09th October, 2020) : Speaker
-* [Merge Intern Webinar](https://github.com/rowdymehul/Merge-Intern-Webinar) (26th September, 2020) : Speaker
-* [AppSec Days - Summer of Security](https://github.com/rowdymehul/AppSec-Days-Summer-of-Security) (August 25-26 2020) : Speaker
-* [SecurityVue India Webinar](https://github.com/rowdymehul/SecurityVue-India-Webinar) (4th July, 2020) : Speaker
-* [The Hackers Meetup India Webinar](https://github.com/rowdymehul/The-Hackers-Meetup-India-Webinar) (21st June 2020) : Speaker
-* [HackerU India Webinar](https://github.com/rowdymehul/HackerU-India-Webinar) (19th June 2020) : Speaker
+* [Hacktoberfest 2020](https://github.com/nomadicmehul/Hacktoberfest-2020) (09th October, 2020) : Speaker
+* [Merge Intern Webinar](https://github.com/nomadicmehul/Merge-Intern-Webinar) (26th September, 2020) : Speaker
+* [AppSec Days - Summer of Security](https://github.com/nomadicmehul/AppSec-Days-Summer-of-Security) (August 25-26 2020) : Speaker
+* [SecurityVue India Webinar](https://github.com/nomadicmehul/SecurityVue-India-Webinar) (4th July, 2020) : Speaker
+* [The Hackers Meetup India Webinar](https://github.com/nomadicmehul/The-Hackers-Meetup-India-Webinar) (21st June 2020) : Speaker
+* [HackerU India Webinar](https://github.com/nomadicmehul/HackerU-India-Webinar) (19th June 2020) : Speaker
 * [Git + Github = Easy (SCM + Collaboration)](https://www.meetup.com/GDG-Nashik/events/270224329/)(April 26, 2020) : Organizer & Speaker
-* [Hello Rust](https://github.com/rowdymehul/Hello-Rust) (17 APRIL, 2020) : Speaker
+* [Hello Rust](https://github.com/nomadicmehul/Hello-Rust) (17 APRIL, 2020) : Speaker
 
 ### 2019
 
@@ -97,7 +97,7 @@ Upcoming and past events / workshops / podcasts / speaking engagements:
 * [TRU OPENSOURCE CLUB - Weekly TechMeetup, Canada](https://trusu.ca/club/open-source-club/git) : Speaker 
 * [Cloud Study Jams [Beginners]: GDG Nashik](https://www.meetup.com/GDG-Nashik/events/260845707/) (May 26, 2019): Organizer & Speaker
 * [Serverless Auckland](https://www.meetup.com/Serverless-Auckland/events/258553321/) (February 19, 2019) : Speaker
-* [OWASP New Zealand Day 2019](https://github.com/rowdymehul/OWASP-New-Zealand-Day-2019) : Speaker
+* [OWASP New Zealand Day 2019](https://github.com/nomadicmehul/OWASP-New-Zealand-Day-2019) : Speaker
 
 ### 2018
 
@@ -111,10 +111,10 @@ Upcoming and past events / workshops / podcasts / speaking engagements:
 * [DevConfIN 2018](https://devconf.info/in) (4th & 5th May 2018) : Speaker
 * [ServerlessDays Auckland](https://serverless.org.nz) (05 June, 2018) : Speaker
 * [RustFest Paris 2018](https://paris.rustfest.eu/) (May 26th - 28th, 2018) : Contributor Invitation
-* [DevHost’18](https://github.com/rowdymehul/DevHost18)
-* [The Hacker's Meet-Up Application-Security-edition](https://github.com/rowdymehul/The-Hackers-Meetup-Application-Security-edition) (6th May 2018) : Speaker
-* [Rust Hacks at Cummins](https://github.com/rowdymehul/Rust-Hacks-at-Cummins) (17 MARCH, 2018) : Speaker
-* [GNUnify’18](https://github.com/rowdymehul/GNUnify-2018) (16-17 Feb, 2018) : Speaker
+* [DevHost’18](https://github.com/nomadicmehul/DevHost18)
+* [The Hacker's Meet-Up Application-Security-edition](https://github.com/nomadicmehul/The-Hackers-Meetup-Application-Security-edition) (6th May 2018) : Speaker
+* [Rust Hacks at Cummins](https://github.com/nomadicmehul/Rust-Hacks-at-Cummins) (17 MARCH, 2018) : Speaker
+* [GNUnify’18](https://github.com/nomadicmehul/GNUnify-2018) (16-17 Feb, 2018) : Speaker
 * [Maker Fest 2018](http://www.rowdymehul.com/mozilla/maker-fest-2018/) (Jan, 2018) : Organizer
 
 ### 2017
