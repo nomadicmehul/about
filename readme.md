@@ -8,6 +8,9 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ankitatripathi&left_color=gray&right_color=blue)
 [![Medium Badge](https://img.shields.io/badge/-@Mehul%20Patel-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@nomadicmehul)](https://medium.com/@nomadicmehul)
 
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/8klMBnrnd6mrsWML10/giphy.gif" />
+
 > I am:
 
 - Community Builder | Open-source Advocate 🥑
