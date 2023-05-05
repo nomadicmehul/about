@@ -89,6 +89,8 @@ _If you'd like me to keynote, present a session, or run a workshop at an event y
 
 Upcoming and past events / workshops / podcasts / speaking engagements:
 
+* [CNCF Ahmedabad Meetup May'23](https://github.com/nomadicmehul/CNCF-Ahm-Meetup-May-23) : Speaker 
+* [Mozilla Connect at LDCE ](https://www.linkedin.com/feed/update/urn:li:activity:7059404168096063491/) (4th May 2023) : Speaker
 * [Mozilla Gujarat Meetup](https://community.mozilla.org/en/events/mozilla-gujarat-reborn/) (22nd Jan, 2023) : Organizer & Speaker 
 * [SwasthyaCon 2023](https://github.com/nomadicmehul/SwasthyaCon-2023) (6th to 8th January 2023) : Speaker
 
