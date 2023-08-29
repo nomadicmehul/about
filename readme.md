@@ -90,6 +90,12 @@ _If you'd like me to keynote, present a session, or run a workshop at an event y
 
 Upcoming and past events / workshops / podcasts / speaking engagements:
 
+* [DevOps-Workshop-DDU](https://github.com/nomadicmehul/DevOps-Workshop-DDU): Speaker
+* [DevOps-Wrokshop-at-Indus-University](https://github.com/nomadicmehul/DevOps-Wrokshop-at-Indus-University): Speaker
+* [DevOps-Workshop-Swarrnim-University](https://github.com/nomadicmehul/DevOps-Workshop-Swarrnim-University): Speaker
+* [KU-DevOps-Wrokshop-23](https://github.com/nomadicmehul/KU-DevOps-Wrokshop-23): Speaker 
+* [Docker Ahmedabad Meetup July'23](https://github.com/nomadicmehul/Docker-Ahmedabad-July-23): Speaker
+* [The Hackers Meetup Ahmedabad, Application Security special edition](https://github.com/nomadicmehul/THM-Ahmedabad-May-23): Speaker
 * [CNCF Ahmedabad Meetup May'23](https://github.com/nomadicmehul/CNCF-Ahm-Meetup-May-23) : Speaker 
 * [Mozilla Connect at LDCE ](https://www.linkedin.com/feed/update/urn:li:activity:7059404168096063491/) (4th May 2023) : Speaker
 * [Mozilla Gujarat Meetup](https://community.mozilla.org/en/events/mozilla-gujarat-reborn/) (22nd Jan, 2023) : Organizer & Speaker 
