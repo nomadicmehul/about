@@ -22,9 +22,8 @@
 - [Mozilla Reps Resource](https://community.mozilla.org/de/groups/mozilla-reps-resources/)
 - Manager at [Mozilla Pontoon](https://pontoon.mozilla.org/gu-IN/)
 - Founder at [Open Source Weekend](https://twitter.com/OSWeekend)
-- Founder at [Internauts Foundation](https://twitter.com/Internautsorg)
 - Organizer at [Gujarat Identity and Security Meetup](https://www.meetup.com/gujarat-identity-and-security-meetup/)
-- Tech Writer at [TechnoPanti](medium.com/technopanti)
+- Tech Writer at [CloudCaptaion](medium.com/CloudCaptaion)
 - Founder/Organizer at [Rust Hacks](https://twitter.com/rusthack)
 
 > I do:
