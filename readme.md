@@ -89,6 +89,9 @@ _If you'd like me to keynote, present a session, or run a workshop at an event y
 
 Upcoming and past events / workshops / podcasts / speaking engagements:
 
+
+* [CNCG-Gandhinagar-Meetup-Sept-23](https://github.com/nomadicmehul/CNCG-Gandhinagar-Meetup-Sept-23): Organizer & Speaker
+* [HUG-Gandhinagar-Meetup-Sept-23](https://github.com/nomadicmehul/HUG-Gandhinagar-Meetup-Sept-23): Organizer & Speaker
 * [DevOps-Workshop-DDU](https://github.com/nomadicmehul/DevOps-Workshop-DDU): Speaker
 * [DevOps-Wrokshop-at-Indus-University](https://github.com/nomadicmehul/DevOps-Wrokshop-at-Indus-University): Speaker
 * [DevOps-Workshop-Swarrnim-University](https://github.com/nomadicmehul/DevOps-Workshop-Swarrnim-University): Speaker
