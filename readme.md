@@ -84,14 +84,16 @@ _If you'd like me to keynote, present a session, or run a workshop at an event y
 
 ## Events
 
-
-### 2023
+### 2024
 
 Upcoming and past events / workshops / podcasts / speaking engagements:
 
-* [GDG-Gandhinagar-Meetup-March-23](https://github.com/nomadicmehul/GDG-Gandhinagar-Meetup-March-23): Speaker
+* [GDG-Gandhinagar-Meetup-March-23](https://github.com/nomadicmehul/GDG-Gandhinagar-Meetup-March-24): Speaker
 * [IWD-24-by-WTMBaroda](https://github.com/nomadicmehul/IWD-24-by-WTMBaroda): Speaker
 * [GDG-Cloud-Gandhinagar-Tech-talk-with-ML-professionals](https://github.com/nomadicmehul/GDG-Cloud-Gandhinagar-Tech-talk-with-ML-professionals): Organizer
+
+### 2023
+
 * [CNCG-Gandhinagar-Meetup-Sept-23](https://github.com/nomadicmehul/CNCG-Gandhinagar-Meetup-Sept-23): Organizer & Speaker
 * [HUG-Gandhinagar-Meetup-Sept-23](https://github.com/nomadicmehul/HUG-Gandhinagar-Meetup-Sept-23): Organizer & Speaker
 * [DevOps-Workshop-DDU](https://github.com/nomadicmehul/DevOps-Workshop-DDU): Speaker
