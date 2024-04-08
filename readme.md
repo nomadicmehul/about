@@ -15,16 +15,17 @@
 
 - Community Builder | Open-source Advocate 🥑
 - 🎙️ Podcast Host - [TACOS with Mehul](https://www.youtube.com/playlist?list=PL7m7kHJFCVjXKK9jeyWwroPYsvNUaPqCH)
-- [Mozilla Reps Council](https://www.mozilla.org/en-US/about/leadership/reps-council/) 
-- [AWS Community Builder ](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=mehul&cb-cards.q_operator=AND)
-- [Auth0 Ambassador](https://auth0.com/ambassador-program/ambassadors#Mehul%20Patel)
-- [Mozilla Reps Mentor](https://community.mozilla.org/de/groups/mozilla-reps-mentors/)
-- [Mozilla Reps Resource](https://community.mozilla.org/de/groups/mozilla-reps-resources/)
-- Manager at [Mozilla Pontoon](https://pontoon.mozilla.org/gu-IN/)
+- Founder at [CloudCaptaion](https://github.com/nomadicmehul/CloudCaptain) Community Project 
 - Founder at [Open Source Weekend](https://twitter.com/OSWeekend)
-- Organizer at [Gujarat Identity and Security Meetup](https://www.meetup.com/gujarat-identity-and-security-meetup/)
-- Tech Writer at [CloudCaptaion](medium.com/CloudCaptaion)
-- Founder/Organizer at [Rust Hacks](https://twitter.com/rusthack)
+- **Ex** [AWS Community Builder ](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=mehul&cb-cards.q_operator=AND)
+rs/)
+- **Ex** [Mozilla Reps Council](https://www.mozilla.org/en-US/about/leadership/reps-council/) 
+- **Ex** [Mozilla Reps Resource](https://community.mozilla.org/de/groups/mozilla-reps-resources/)
+- **Ex** [Auth0 Ambassador](https://auth0.com/ambassador-program/ambassadors#Mehul%20Patel)
+- **Ex**[Mozilla Reps Mentor](https://community.mozilla.org/de/groups/mozilla-reps-mento
+- **Ex** Organizer at [Gujarat Identity and Security Meetup](https://www.meetup.com/gujarat-identity-and-security-meetup/)
+- **Ex** Organizer at [GDG Nashik](https://gdg.community.dev/gdg-nashik/)
+- **Ex** Founder/Organizer at [Rust Hacks](https://twitter.com/rusthack)
 
 > I do:
 
