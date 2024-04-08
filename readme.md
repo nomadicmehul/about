@@ -22,7 +22,7 @@ rs/)
 - **Ex** [Mozilla Reps Council](https://www.mozilla.org/en-US/about/leadership/reps-council/) 
 - **Ex** [Mozilla Reps Resource](https://community.mozilla.org/de/groups/mozilla-reps-resources/)
 - **Ex** [Auth0 Ambassador](https://auth0.com/ambassador-program/ambassadors#Mehul%20Patel)
-- **Ex**[Mozilla Reps Mentor](https://community.mozilla.org/de/groups/mozilla-reps-mento
+- **Ex** [Mozilla Reps Mentor](https://community.mozilla.org/de/groups/mozilla-reps-mentor)
 - **Ex** Organizer at [Gujarat Identity and Security Meetup](https://www.meetup.com/gujarat-identity-and-security-meetup/)
 - **Ex** Organizer at [GDG Nashik](https://gdg.community.dev/gdg-nashik/)
 - **Ex** Founder/Organizer at [Rust Hacks](https://twitter.com/rusthack)
