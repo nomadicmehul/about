@@ -15,7 +15,7 @@
 
 - Community Builder | Open-source Advocate 🥑
 - 🎙️ Podcast Host - [TACOS with Mehul](https://www.youtube.com/playlist?list=PL7m7kHJFCVjXKK9jeyWwroPYsvNUaPqCH)
-- Founder at [CloudCaptaion](https://github.com/nomadicmehul/CloudCaptain) Community Project 
+- Founder at [CloudCaptain](https://github.com/nomadicmehul/CloudCaptain) Community Project 
 - Founder at [Open Source Weekend](https://twitter.com/OSWeekend)
 - Organizer at [GDG Cloud Gandhinagar](https://gdg.community.dev/gdg-cloud-gandhinagar/)
 - **Ex** [AWS Community Builder ](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=mehul&cb-cards.q_operator=AND)
