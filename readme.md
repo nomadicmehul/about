@@ -18,7 +18,7 @@
 - Founder at [CloudCaptain](https://github.com/nomadicmehul/CloudCaptain) Community Project 
 - Founder at [Open Source Weekend](https://twitter.com/OSWeekend)
 - Organizer at [GDG Cloud Gandhinagar](https://gdg.community.dev/gdg-cloud-gandhinagar/)
-- **Ex** [AWS Community Builder ](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=mehul&cb-cards.q_operator=AND)
+- [AWS Community Builder ](https://aws.amazon.com/developer/community/community-builders/community-builders-directory/?cb-cards.sort-by=item.additionalFields.cbName&cb-cards.sort-order=asc&awsf.builder-category=*all&awsf.location=*all&awsf.year=*all&cb-cards.q=mehul&cb-cards.q_operator=AND)
 - **Ex** [Mozilla Reps Council](https://www.mozilla.org/en-US/about/leadership/reps-council/) 
 - **Ex** [Mozilla Reps Resource](https://community.mozilla.org/de/groups/mozilla-reps-resources/)
 - **Ex** [Auth0 Ambassador](https://auth0.com/ambassador-program/ambassadors#Mehul%20Patel)
