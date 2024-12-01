@@ -85,11 +85,15 @@ I'm Mehul Patel, a **Community Builder**, **Open-source Advocate**, and **DevOps
 ## 🎤 **Speaker**  
 Sharing knowledge is my passion! I've had the privilege of speaking at various conferences, meetups, and workshops globally.  
 ### **Recent Speaking Engagements**  
+
+## **2024**  
 - **[GDG Gandhinagar Meetup (2024)](https://github.com/nomadicmehul/GDG-Gandhinagar-Meetup-March-24)**  
 - **[IWD 2024 by WTM Baroda](https://github.com/nomadicmehul/IWD-24-by-WTMBaroda)**  
-- **[CNCG Gandhinagar Meetup (2023)](https://github.com/nomadicmehul/CNCG-Gandhinagar-Meetup-Sept-23)**  
-- **[DevOps Workshop @ DDU](https://github.com/nomadicmehul/DevOps-Workshop-DDU)**  
+ 
 
+## **2023**  
+- **[CNCG Gandhinagar Meetup (2023)](https://github.com/nomadicmehul/CNCG-Gandhinagar-Meetup-Sept-23)**  
+- **[DevOps Workshop @ DDU](https://github.com/nomadicmehul/DevOps-Workshop-DDU)** 
 ---  
 
 ## 📢 **Organizer**  
