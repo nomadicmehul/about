@@ -80,24 +80,38 @@ I'm Mehul Patel, a **Community Builder**, **Open-source Advocate**, and **DevOps
 </br>
 
 
-
-## 🎤 **Events & Speaking Engagements**
-
-### **2024**
-* [GDG Gandhinagar Meetup](https://github.com/nomadicmehul/GDG-Gandhinagar-Meetup-March-24) - Speaker
-* [IWD 2024 by WTM Baroda](https://github.com/nomadicmehul/IWD-24-by-WTMBaroda) - Speaker
-* [Tech Talk with ML Professionals](https://github.com/nomadicmehul/GDG-Cloud-Gandhinagar-Tech-talk-with-ML-professionals) - Organizer
-
-### **2023**
-* [CNCG Gandhinagar Meetup](https://github.com/nomadicmehul/CNCG-Gandhinagar-Meetup-Sept-23) - Organizer & Speaker
-* [HUG Gandhinagar Meetup](https://github.com/nomadicmehul/HUG-Gandhinagar-Meetup-Sept-23) - Organizer & Speaker
-* [DevOps Workshop @ DDU](https://github.com/nomadicmehul/DevOps-Workshop-DDU) - Speaker
-
 ---
 
-## 🎙️ **Podcasts & Vlogs**
-* 🎧 **[TACOS with Mehul](https://www.youtube.com/playlist?list=PL7m7kHJFCVjXKK9jeyWwroPYsvNUaPqCH)** - Conversations with tech leaders on community and open-source.
-* 📹 **[NomadicMehul: Sailing with CloudCaptain](https://www.youtube.com/channel/UCsbKUys6gsLn0lQbkIshIIQ)** - Behind-the-scenes insights on tech events, meetups, and DevOps trends.
+## 🎤 **Speaker**  
+Sharing knowledge is my passion! I've had the privilege of speaking at various conferences, meetups, and workshops globally.  
+### **Recent Speaking Engagements**  
+- **[GDG Gandhinagar Meetup (2024)](https://github.com/nomadicmehul/GDG-Gandhinagar-Meetup-March-24)**  
+- **[IWD 2024 by WTM Baroda](https://github.com/nomadicmehul/IWD-24-by-WTMBaroda)**  
+- **[CNCG Gandhinagar Meetup (2023)](https://github.com/nomadicmehul/CNCG-Gandhinagar-Meetup-Sept-23)**  
+- **[DevOps Workshop @ DDU](https://github.com/nomadicmehul/DevOps-Workshop-DDU)**  
+
+---  
+
+## 📢 **Organizer**  
+I believe in creating inclusive and thriving communities through tech events and collaborative initiatives.  
+### **Meetups**  
+- **GDG Cloud Gandhinagar Tech Talk with ML Professionals**  
+- **HUG Gandhinagar Meetup (Sept 2023)**  
+
+### **Conferences**  
+- **Google Cloud Community Day 2024** - Hosted & Shared Assets  
+- **CNCG Gandhinagar Meetup** - Organized & Speaker  
+
+### **Workshops/Hackathons**  
+- **Red Hat OpenShift Workshop (2024)**  
+- **Docker & Kubernetes Hands-on Workshop**  
+
+---  
+
+## 🎙️ **Podcaster**  
+As the host of **[TACOS with Mehul](https://www.youtube.com/playlist?list=PL7m7kHJFCVjXKK9jeyWwroPYsvNUaPqCH)**, I engage with tech leaders to discuss the latest trends in open-source, community building, and developer relations.  
+
+🎥 **[Nomadic Mehul](https://www.youtube.com/channel/UCsbKUys6gsLn0lQbkIshIIQ)** offers behind-the-scenes insights on tech events and the latest in cloud and DevOps.  
 
 ---
 
