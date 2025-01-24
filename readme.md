@@ -199,17 +199,30 @@ I believe in creating inclusive and thriving communities through tech events and
 
 ## **2020** 
 
-
 ### 🎤 **Speaker**  
 Sharing knowledge is my passion! I've had the privilege of speaking at various conferences, meetups, and workshops globally.  
 
 #### **Recent Speaking Engagements**  
+
+- [Hacktoberfest 2020](https://github.com/nomadicmehul/Hacktoberfest-2020)
+- [Merge Intern Webinar](https://github.com/nomadicmehul/Merge-Intern-Webinar)
+- [SecurityVue India Webinar](https://github.com/nomadicmehul/SecurityVue-India-Webinar)
+- [The Hackers Meetup India Webinar](https://github.com/nomadicmehul/The-Hackers-Meetup-India-Webinar)
+- [HackerU India Webinar](https://github.com/nomadicmehul/HackerU-India-Webinar)
+- [Git + Github = Easy (SCM + Collaboration)](https://www.meetup.com/GDG-Nashik/events/270224329/)
+- [Hello Rust](https://github.com/nomadicmehul/Hello-Rust)
+
+  #### **Workshops/Hackathons**  
+
+- [AppSec Days - Summer of Security](https://github.com/nomadicmehul/AppSec-Days-Summer-of-Security)
 
 
 ### 📢 **Organizer** 
 I believe in creating inclusive and thriving communities through tech events and collaborative initiatives.  
 
 #### **Meetups**  
+
+- [Git + Github = Easy (SCM + Collaboration)](https://www.meetup.com/GDG-Nashik/events/270224329/)
 
 
 #### **Conferences**  
