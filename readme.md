@@ -82,33 +82,71 @@ I'm Mehul Patel, a **Community Builder**, **Open-source Advocate**, and **DevOps
 
 ---
 
-## 🎤 **Speaker**  
-Sharing knowledge is my passion! I've had the privilege of speaking at various conferences, meetups, and workshops globally.  
-### **Recent Speaking Engagements**  
+## **2024** 
 
-## **2024**  
-- **[GDG Gandhinagar Meetup (2024)](https://github.com/nomadicmehul/GDG-Gandhinagar-Meetup-March-24)**  
-- **[IWD 2024 by WTM Baroda](https://github.com/nomadicmehul/IWD-24-by-WTMBaroda)**  
- 
+* [GDG-Gandhinagar-Meetup-March-23](https://github.com/nomadicmehul/GDG-Gandhinagar-Meetup-March-24): Speaker
+* [IWD-24-by-WTMBaroda](https://github.com/nomadicmehul/IWD-24-by-WTMBaroda): Speaker
+* [GDG-Cloud-Gandhinagar-Tech-talk-with-ML-professionals](https://github.com/nomadicmehul/GDG-Cloud-Gandhinagar-Tech-talk-with-ML-professionals): Organizer
+
+### 🎤 **Speaker**  
+Sharing knowledge is my passion! I've had the privilege of speaking at various conferences, meetups, and workshops globally.  
+
+#### **Recent Speaking Engagements**  
+
+- [GDG-Gandhinagar-Meetup-March-23](https://github.com/nomadicmehul/GDG-Gandhinagar-Meetup-March-24)
+- [IWD-24-by-WTMBaroda](https://github.com/nomadicmehul/IWD-24-by-WTMBaroda)
+
+### 📢 **Organizer** 
+I believe in creating inclusive and thriving communities through tech events and collaborative initiatives.  
+
+#### **Meetups**  
+
+- [GDG-Cloud-Gandhinagar-Tech-talk-with-ML-professionals](https://github.com/nomadicmehul/GDG-Cloud-Gandhinagar-Tech-talk-with-ML-professionals)
+
+#### **Conferences**  
+
+- [Google Cloud Community Day 2024)](https://github.com/oscfcommunity/GCCD2024)
+
+#### **Workshops/Hackathons**  
+
+
+ ---
 
 ## **2023**  
-- **[CNCG Gandhinagar Meetup (2023)](https://github.com/nomadicmehul/CNCG-Gandhinagar-Meetup-Sept-23)**  
-- **[DevOps Workshop @ DDU](https://github.com/nomadicmehul/DevOps-Workshop-DDU)** 
----  
+
+
+### 🎤 **Speaker**  
+Sharing knowledge is my passion! I've had the privilege of speaking at various conferences, meetups, and workshops globally.  
+
+#### **Recent Speaking Engagements** 
+
+- [CNCG-Gandhinagar-Meetup-Sept-23](https://github.com/nomadicmehul/CNCG-Gandhinagar-Meetup-Sept-23)
+- [HUG-Gandhinagar-Meetup-Sept-23](https://github.com/nomadicmehul/HUG-Gandhinagar-Meetup-Sept-23)
+- [CNCF Ahmedabad Meetup May'23](https://github.com/nomadicmehul/CNCF-Ahm-Meetup-May-23)
+- [Mozilla Connect at LDCE ](https://www.linkedin.com/feed/update/urn:li:activity:7059404168096063491/)
+- [Mozilla Gujarat Meetup](https://community.mozilla.org/en/events/mozilla-gujarat-reborn/)
+- [SwasthyaCon 2023](https://github.com/nomadicmehul/SwasthyaCon-2023)
+
+#### **Workshops/Hackathons**  
+
+- [DevOps-Workshop-DDU](https://github.com/nomadicmehul/DevOps-Workshop-DDU)
+- [DevOps-Wrokshop-at-Indus-University](https://github.com/nomadicmehul/DevOps-Wrokshop-at-Indus-University)
+- [DevOps-Workshop-Swarrnim-University](https://github.com/nomadicmehul/DevOps-Workshop-Swarrnim-University)
+- [KU-DevOps-Wrokshop-23](https://github.com/nomadicmehul/KU-DevOps-Wrokshop-23)
+- [Docker Ahmedabad Meetup July'23](https://github.com/nomadicmehul/Docker-Ahmedabad-July-23)
 
 ## 📢 **Organizer**  
 I believe in creating inclusive and thriving communities through tech events and collaborative initiatives.  
-### **Meetups**  
-- **GDG Cloud Gandhinagar Tech Talk with ML Professionals**  
-- **HUG Gandhinagar Meetup (Sept 2023)**  
+#### **Meetups**  
 
-### **Conferences**  
-- **Google Cloud Community Day 2024** - Hosted & Shared Assets  
-- **CNCG Gandhinagar Meetup** - Organized & Speaker  
+- [CNCG-Gandhinagar-Meetup-Sept-23](https://github.com/nomadicmehul/CNCG-Gandhinagar-Meetup-Sept-23)
+- [HUG-Gandhinagar-Meetup-Sept-23](https://github.com/nomadicmehul/HUG-Gandhinagar-Meetup-Sept-23)
+- [Mozilla Gujarat Meetup](https://community.mozilla.org/en/events/mozilla-gujarat-reborn/)
 
-### **Workshops/Hackathons**  
-- **Red Hat OpenShift Workshop (2024)**  
-- **Docker & Kubernetes Hands-on Workshop**  
+#### **Conferences**  
+ 
+
+#### **Workshops/Hackathons**  
 
 ---  
 
