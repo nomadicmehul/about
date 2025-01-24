@@ -177,11 +177,13 @@ I believe in creating inclusive and thriving communities through tech events and
 
 ## **2021** 
 
-
 ### 🎤 **Speaker**  
 Sharing knowledge is my passion! I've had the privilege of speaking at various conferences, meetups, and workshops globally.  
 
 #### **Recent Speaking Engagements**  
+
+- [HackBMU 4.0](https://github.com/nomadicmehul/HackBMU-4.0)
+- [Software Freedom Day 2021](https://github.com/nomadicmehul/software-freedom-day-2021)
 
 
 ### 📢 **Organizer** 
