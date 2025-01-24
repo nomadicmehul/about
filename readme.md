@@ -148,6 +148,119 @@ I believe in creating inclusive and thriving communities through tech events and
 
 #### **Workshops/Hackathons**  
 
+---
+
+## **2022** 
+
+### 🎤 **Speaker**  
+Sharing knowledge is my passion! I've had the privilege of speaking at various conferences, meetups, and workshops globally.  
+
+#### **Recent Speaking Engagements**  
+
+- [Developer Day Seattle 2022](https://regionalevents.okta.com/DeveloperDaySeattle2022)
+- [#1 Launch event - Identity and Security Meetup Gujarat](https://www.meetup.com/gujarat-identity-and-security-meetup/events/286053128/)
+
+### 📢 **Organizer** 
+I believe in creating inclusive and thriving communities through tech events and collaborative initiatives.  
+
+#### **Meetups** 
+
+- [#1 Launch event - Identity and Security Meetup Gujarat](https://www.meetup.com/gujarat-identity-and-security-meetup/events/286053128/)
+
+
+#### **Conferences**  
+
+
+#### **Workshops/Hackathons**  
+
+---  
+
+## **2021** 
+
+
+### 🎤 **Speaker**  
+Sharing knowledge is my passion! I've had the privilege of speaking at various conferences, meetups, and workshops globally.  
+
+#### **Recent Speaking Engagements**  
+
+
+### 📢 **Organizer** 
+I believe in creating inclusive and thriving communities through tech events and collaborative initiatives.  
+
+#### **Meetups**  
+
+
+#### **Conferences**  
+
+
+#### **Workshops/Hackathons**  
+
+## **2020** 
+
+
+### 🎤 **Speaker**  
+Sharing knowledge is my passion! I've had the privilege of speaking at various conferences, meetups, and workshops globally.  
+
+#### **Recent Speaking Engagements**  
+
+
+### 📢 **Organizer** 
+I believe in creating inclusive and thriving communities through tech events and collaborative initiatives.  
+
+#### **Meetups**  
+
+
+#### **Conferences**  
+
+
+#### **Workshops/Hackathons**  
+
+---  
+
+## **2019** 
+
+
+### 🎤 **Speaker**  
+Sharing knowledge is my passion! I've had the privilege of speaking at various conferences, meetups, and workshops globally.  
+
+#### **Recent Speaking Engagements**  
+
+
+### 📢 **Organizer** 
+I believe in creating inclusive and thriving communities through tech events and collaborative initiatives.  
+
+#### **Meetups**  
+
+
+#### **Conferences**  
+
+
+#### **Workshops/Hackathons**  
+
+---  
+
+## **2018** 
+
+
+### 🎤 **Speaker**  
+Sharing knowledge is my passion! I've had the privilege of speaking at various conferences, meetups, and workshops globally.  
+
+#### **Recent Speaking Engagements**  
+
+
+### 📢 **Organizer** 
+I believe in creating inclusive and thriving communities through tech events and collaborative initiatives.  
+
+#### **Meetups**  
+
+
+#### **Conferences**  
+
+
+#### **Workshops/Hackathons**  
+
+---  
+
 ---  
 
 ## 🎙️ **Podcaster**  
