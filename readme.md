@@ -263,11 +263,43 @@ I believe in creating inclusive and thriving communities through tech events and
 ## **2018** 
 
 
+* [Hackference India 2018](https://hackference.in/) (15-16 December 2018) : Speaker
+* [Mozilla l10n Gujarati Training Meetup 2018](https://reps.mozilla.org/e/mozilla-l10n-gujarati-training-meetup-2018/) (01-02 December 2018) : Organizer
+* [OpenAlt 2018, Brno](https://www.openalt.cz/2018/) (03-04 Nov. 2018) : Speaker 
+* [Mozilla Festival 2018, London](https://mozillafestival.org/) : Speaker 
+* [AllThingsOpen 2018, USA](https://www.allthingsopen.org/) (October 21-23, 2018) : Speaker
+* [ServerlessDays Milano, Italy](https://milan.serverlessdays.io/) (October 19, 2018) : Speaker
+* [OWASP AppSec Israel 2018](https://2018.appsecil.org/) (5-6 September, 2018) : Speaker
+* [DevConfIN 2018](https://devconf.info/in) (4th & 5th May 2018) : Speaker
+* [ServerlessDays Auckland](https://serverless.org.nz) (05 June, 2018) : Speaker
+* [RustFest Paris 2018](https://paris.rustfest.eu/) (May 26th - 28th, 2018) : Contributor Invitation
+* [DevHost’18](https://github.com/nomadicmehul/DevHost18)
+* [The Hacker's Meet-Up Application-Security-edition](https://github.com/nomadicmehul/The-Hackers-Meetup-Application-Security-edition) (6th May 2018) : Speaker
+* [Rust Hacks at Cummins](https://github.com/nomadicmehul/Rust-Hacks-at-Cummins) (17 MARCH, 2018) : Speaker
+* [GNUnify’18](https://github.com/nomadicmehul/GNUnify-2018) (16-17 Feb, 2018) : Speaker
+* [Maker Fest 2018](https://medium.com/@nomadicmehul/maker-fest-2018-757736de866b) (Jan, 2018) : Organizer
+
+
+
 ### 🎤 **Speaker**  
 Sharing knowledge is my passion! I've had the privilege of speaking at various conferences, meetups, and workshops globally.  
 
 #### **Recent Speaking Engagements**  
 
+- [Hackference India 2018](https://hackference.in/)
+- [OpenAlt 2018, Brno](https://www.openalt.cz/2018/)
+- [AllThingsOpen 2018, USA](https://www.allthingsopen.org/)
+- [Mozilla Festival 2018, London](https://mozillafestival.org/)
+- [ServerlessDays Milano, Italy](https://milan.serverlessdays.io/)
+- [OWASP AppSec Israel 2018](https://2018.appsecil.org/)
+- [DevConfIN 2018](https://devconf.info/in)
+- [ServerlessDays Auckland](https://serverless.org.nz)
+- [RustFest Paris 2018](https://paris.rustfest.eu/)
+- [DevHost’18](https://github.com/nomadicmehul/DevHost18)
+- [The Hacker's Meet-Up Application-Security-edition](https://github.com/nomadicmehul/The-Hackers-Meetup-Application-Security-edition)
+- [Rust Hacks at Cummins](https://github.com/nomadicmehul/Rust-Hacks-at-Cummins)
+- [GNUnify’18](https://github.com/nomadicmehul/GNUnify-2018)
+- [Maker Fest 2018](https://medium.com/@nomadicmehul/maker-fest-2018-757736de866b)
 
 ### 📢 **Organizer** 
 I believe in creating inclusive and thriving communities through tech events and collaborative initiatives.  
@@ -279,6 +311,9 @@ I believe in creating inclusive and thriving communities through tech events and
 
 
 #### **Workshops/Hackathons**  
+
+- [Mozilla l10n Gujarati Training Meetup 2018](https://reps.mozilla.org/e/mozilla-l10n-gujarati-training-meetup-2018/)
+
 
 ---  
 
