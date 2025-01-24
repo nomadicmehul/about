@@ -234,17 +234,23 @@ I believe in creating inclusive and thriving communities through tech events and
 
 ## **2019** 
 
-
 ### 🎤 **Speaker**  
 Sharing knowledge is my passion! I've had the privilege of speaking at various conferences, meetups, and workshops globally.  
 
 #### **Recent Speaking Engagements**  
 
+- [Mozilla Whistler All Hands 2019](https://wiki.mozilla.org/All_Hands/Whistler2019)
+- [TRU OPENSOURCE CLUB - Weekly TechMeetup, Canada](https://trusu.ca/club/open-source-club/git)
+- [Cloud Study Jams Beginners: GDG Nashik](https://www.meetup.com/GDG-Nashik/events/260845707/)
+- [Serverless Auckland](https://www.meetup.com/Serverless-Auckland/events/258553321/)
+- [OWASP New Zealand Day 2019](https://github.com/nomadicmehul/OWASP-New-Zealand-Day-2019)
 
 ### 📢 **Organizer** 
 I believe in creating inclusive and thriving communities through tech events and collaborative initiatives.  
 
-#### **Meetups**  
+#### **Meetups** 
+
+- [Cloud Study Jams Beginners: GDG Nashik](https://www.meetup.com/GDG-Nashik/events/260845707/)
 
 
 #### **Conferences**  
