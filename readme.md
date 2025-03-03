@@ -93,7 +93,7 @@ Sharing knowledge is my passion! I've had the privilege of speaking at various c
 
 #### **Recent Speaking Engagements**  
 
-- [GDG-Gandhinagar-Meetup-March-23](https://github.com/nomadicmehul/GDG-Gandhinagar-Meetup-March-24)
+- [GDG-Gandhinagar-Meetup-March-24](https://github.com/nomadicmehul/GDG-Gandhinagar-Meetup-March-24)
 - [IWD-24-by-WTMBaroda](https://github.com/nomadicmehul/IWD-24-by-WTMBaroda)
 
 ### 📢 **Organizer** 
